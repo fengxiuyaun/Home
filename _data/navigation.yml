@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title:		Home
+  url:			https://fengxiuyaun.github.com
+  excerpt:
+  image:		
+  
+- title:		MySQL
+  url:			/mysql/
+  
+  
+- title:		Linux
+  url:			/linux/
+  
+  
+- title:		Python
+  url:			/python/
